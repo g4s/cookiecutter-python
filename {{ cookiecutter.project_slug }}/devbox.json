@@ -1,0 +1,12 @@
+{
+    "include": [
+        "plugin:python"
+    ],
+    "packages": [
+        "python@latest",
+        "pipenv"
+    ],
+    "shell": {
+        "init_hook": "pipenv shell"
+    }
+}
