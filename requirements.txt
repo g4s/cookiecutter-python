@@ -1,0 +1,5 @@
+py-machineid >= 0.6.0
+requests >= 2.32.3
+licensecheck
+pyre-check
+fb-sapp

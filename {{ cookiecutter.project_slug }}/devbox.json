@@ -6,10 +6,17 @@
         "python@latest",
         "pipenv",
         "pyinstaller",
+        "pip-audit",
+        "mypy",
+        "pylint",
+        "pyflakes",
         "makeself",
         "upx",
         "shellcheck",
-        "pre-commit"
+        "pre-commit",
+        "syft",
+        "plantuml",
+        "watchman"
     ],
     "shell": {
         "init_hook": "pipenv shell"
