@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "github.codespaces",
+        "editorconfig.editorconfig",
+        "gitpod.gitpod-desktop",
+        "davidanson.vscode-markdownlint",
+        "coder.coder-remote",
+        "ms-python.python",
+        "jetpack-io.devbox",
+        "jebbs.plantuml",
+        "mebrahtom.plantumlpreviewer",
+        "gruntfuggly.todo-tree"
+    ]
+}
