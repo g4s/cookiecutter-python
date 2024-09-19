@@ -1,0 +1,16 @@
+[*]
+end_of_life = lf
+charset = utf-8
+insert_new_line = true
+spelling_language = de-DE
+indent_style = space
+
+[*.py]
+indent_size = 4
+max_lenght_line = 79
+
+[*.{pu,puml}]
+indent_size = 4
+
+[*.md]
+indent_size = 4
